@@ -3,7 +3,7 @@ int main(){
     // git clone <repo>
     // git fetch
     // git pull origin main
-    // git commit -m "mensaje"
+    // git commit -am "mensaje"
     // git push orign main
 }
 retrun 0;
